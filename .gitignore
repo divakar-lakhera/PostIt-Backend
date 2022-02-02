@@ -127,5 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+# remove virtualenv
 /venv/
+# remove Keys
+serviceKeyJson.json
